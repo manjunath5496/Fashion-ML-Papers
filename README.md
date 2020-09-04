@@ -4,83 +4,83 @@
 
                              
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/fashion(1).pdf" style="text-decoration:none;">Modeling Relations and Their Mentions without Labeled Text</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/fashion(1).pdf" style="text-decoration:none;">DARec: Deep Domain Adaptation for Cross-Domain Recommendation via Transferring Rating Patterns</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/fashion(2).pdf" style="text-decoration:none;">CRYSTAL: Inducing a Conceptual Dictionary</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/fashion(2).pdf" style="text-decoration:none;">Fashion Landmark Detection in the Wild</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/fashion(3).pdf" style="text-decoration:none;">Evaluation of the Detection and Recognition of ACE: Entities, Values, Temporal Expressions, Relations, and Events</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/fashion(4).pdf" style="text-decoration:none;">Open Information Extraction Systems and Downstream Applications</a></li>                              
-
-
+<li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/fashion(3).pdf" style="text-decoration:none;">Fashion DNA: Merging Content and Sales Data for Recommendation and Article Mapping</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/fashion(4).pdf" style="text-decoration:none;">Fashion Forward: Forecasting Visual Style in Fashion</a></li>                              
 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/fashion(5).pdf" style="text-decoration:none;">Cross-Sentence N-ary Relation Extraction with Graph LSTMs</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/fashion(6).pdf" style="text-decoration:none;">Relation Classification via Recurrent Neural Network</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/fashion(7).pdf" style="text-decoration:none;">Combining Neural Networks and Log-linear Models to Improve Relation Extraction</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/fashion(8).pdf" style="text-decoration:none;"> A Survey of Deep Learning Methods for Relation Extraction </a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/fashion(9).pdf" style="text-decoration:none;">Relation Extraction: A Survey</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/fashion(5).pdf" style="text-decoration:none;">Learning Fashion Compatibility with Bidirectional LSTMs</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/fashion(6).pdf" style="text-decoration:none;">Automatic Spatially-aware Fashion Concept Discovery</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/fashion(7).pdf" style="text-decoration:none;">An LSTM-Based Dynamic Customer Model for Fashion Recommendation</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/fashion(8).pdf" style="text-decoration:none;"> The Conditional Analogy GAN: Swapping Fashion Articles on People Images </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/fashion(9).pdf" style="text-decoration:none;">Be Your Own Prada: Fashion Synthesis with Structural Coherence </a></li>
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/fashion(10).pdf" style="text-decoration:none;">Denoising Distant Supervision for Relation Extraction via Instance-Level Adversarial Training</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/fashion(11).pdf" style="text-decoration:none;">Enriching Pre-trained Language Model with Entity Information for Relation Classification</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/fashion(12).pdf" style="text-decoration:none;">Self-Attention Enhanced Selective Gate with Entity-Aware Embedding for Distantly Supervised Relation Extraction</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/fashion(13).pdf" style="text-decoration:none;">Coreference based event-argument relation extraction on biomedical text</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/fashion(10).pdf" style="text-decoration:none;">FashionBrain Project: A Vision for Understanding Europe's Fashion Data Universe</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/fashion(11).pdf" style="text-decoration:none;">Visually-Aware Fashion Recommendation and Design with Generative Image Models</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/fashion(12).pdf" style="text-decoration:none;">VITON: An Image-based Virtual Try-on Network</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/fashion(13).pdf" style="text-decoration:none;">Learning Type-Aware Embeddings for Fashion Compatibility</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/fashion(14).pdf" style="text-decoration:none;">Semi-Markov Conditional Random Fields for Information Extraction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/fashion(14).pdf" style="text-decoration:none;">Design Inspiration from Generative Networks</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/fashion(15).pdf" style="text-decoration:none;">Subsequence Kernels for Relation Extraction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/fashion(15).pdf" style="text-decoration:none;">CRAFT: Complementary Recommendations Using Adversarial Feature Transformer</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/fashion(16).pdf" style="text-decoration:none;">Hybrid Attention-Based Prototypical Networks for Noisy Few-Shot Relation Classification</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/fashion(16).pdf" style="text-decoration:none;">Understanding Fashionability: What drives sales of a style?</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/fashion(17).pdf" style="text-decoration:none;"> Distributed Representations of Words and Phrases and their Compositionality</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/fashion(17).pdf" style="text-decoration:none;"> Studio2Shop: from studio photo shoots to fashion articles</a></li>   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/fashion(18).pdf" style="text-decoration:none;">Translating Embeddings for Modeling Multi-relational Data</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/fashion(18).pdf" style="text-decoration:none;">Toward Characteristic-Preserving Image-based Virtual Try-On Network</a></li> 
 
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/fashion(19).pdf" style="text-decoration:none;">Relation Extraction from Wikipedia Using Subtree Mining</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/fashion(19).pdf" style="text-decoration:none;">Language Guided Fashion Image Manipulation with Feature-wise Transformations?</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/fashion(20).pdf" style="text-decoration:none;">A Review of Relation Extraction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/fashion(20).pdf" style="text-decoration:none;">Aesthetic-based Clothing Recommendation</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/fashion(21).pdf" style="text-decoration:none;"> Probabilistic Reasoning for Entity and Relation Recognition </a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/fashion(22).pdf" style="text-decoration:none;">Jointly Identifying Entities and Extracting Relations in Encyclopedia Text via A Graphical Model Approach </a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/fashion(21).pdf" style="text-decoration:none;"> Brand > Logo: Visual Analysis of Fashion Brands </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/fashion(22).pdf" style="text-decoration:none;">M2E-Try On Net: Fashion from Model to Everyone</a></li> 
  
  
  
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/fashion(23).pdf" style="text-decoration:none;">Relation Classification via Convolutional Deep Neural Network</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/fashion(23).pdf" style="text-decoration:none;">DeepFashion2: A Versatile Benchmark for Detection, Pose Estimation, Segmentation and Re-Identification of Clothing Images</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/fashion(24).pdf" style="text-decoration:none;">Semantic Relation Classification via Hierarchical Recurrent Neural Network with Attention</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/fashion(24).pdf" style="text-decoration:none;">Compatible and Diverse Fashion Image Inpainting</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/fashion(25).pdf" style="text-decoration:none;">Adversarial Multi-lingual Neural Relation Extraction</a></li>                              
- <li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/fashion(26).pdf" style="text-decoration:none;">ClausIE: Clause-Based Open Information Extraction</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/fashion(25).pdf" style="text-decoration:none;">Towards Multi-pose Guided Virtual Try-on Network</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/fashion(26).pdf" style="text-decoration:none;">Fashion++: Minimal Edits for Outfit Improvement</a></li>
  
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/fashion(27).pdf" style="text-decoration:none;">Structured Relation Discovery using Generative Models</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/fashion(27).pdf" style="text-decoration:none;">POG: Personalized Outfit Generation for Fashion Recommendation at Alibaba iFashion</a></li>
    
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/fashion(28).pdf" style="text-decoration:none;">Identifying Relations for Open Information Extraction</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/fashion(28).pdf" style="text-decoration:none;">Generating High-Resolution Fashion Model Images Wearing Custom Outfits</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/fashion(29).pdf" style="text-decoration:none;">Multi-instance Multi-label Learning for Relation Extraction</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/fashion(29).pdf" style="text-decoration:none;">Down to the Last Detail: Virtual Try-on with Detail Carving</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/fashion(30).pdf" style="text-decoration:none;">Open Language Learning for Information Extraction</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/fashion(30).pdf" style="text-decoration:none;">SieveNet: A Unified Framework for Robust Image-Based Virtual Try-On</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/fashion(31).pdf" style="text-decoration:none;">PATTY: A Taxonomy of Relational Patterns with Semantic Types</a></li> 
-    <li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/fashion(32).pdf" style="text-decoration:none;">Improved Relation Extraction with Feature-Rich Compositional Embedding Models</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/fashion(31).pdf" style="text-decoration:none;">SwapNet: Image Based Garment Transfer</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/fashion(32).pdf" style="text-decoration:none;">PIVTONS: Pose Invariant Virtual Try-on Shoe with Conditional Image Completion</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/fashion(33).pdf" style="text-decoration:none;">Classifying Relations via Long Short Term Memory Networks along Shortest Dependency Paths</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/fashion(33).pdf" style="text-decoration:none;">FW-GAN: Flow-navigatedWarping GAN for Video Virtual Try-on</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/fashion(34).pdf" style="text-decoration:none;">Creating a Large Benchmark for Open Information Extraction</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/fashion(34).pdf" style="text-decoration:none;">Virtually Trying on New Clothing with Arbitrary Poses</a></li> 
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/fashion(35).pdf" style="text-decoration:none;"> Incorporating Relation Paths in Neural Relation Extraction</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/fashion(35).pdf" style="text-decoration:none;"> ClothFlow: A Flow-Based Model for Clothed Person Generation</a></li> 
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/fashion(36).pdf" style="text-decoration:none;"> Adversarial Training for Relation Extraction</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/fashion(36).pdf" style="text-decoration:none;">DeepFashion: Powering Robust Clothes Recognition and Retrieval with Rich Annotations</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/fashion(37).pdf" style="text-decoration:none;">Graph Convolution over Pruned Dependency Trees Improves Relation Extraction</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/fashion(38).pdf" style="text-decoration:none;">Multi-Level Structured Self-Attentions for Distantly Supervised Relation Extraction</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/fashion(39).pdf" style="text-decoration:none;">N-ary Relation Extraction using Graph State LSTM</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/fashion(40).pdf" style="text-decoration:none;">Hierarchical Relation Extraction with Coarse-to-Fine Grained Attention</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/fashion(37).pdf" style="text-decoration:none;">Sales Potential: Modelling Sellability of Visual Aesthetics of a Fashion Product</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/fashion(38).pdf" style="text-decoration:none;">NeuroStylist: Neural Compatibility Modeling for Clothing Matching</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/fashion(39).pdf" style="text-decoration:none;">FashionGAN: Display your fashion design using Conditional Generative Adversarial Nets</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/fashion(40).pdf" style="text-decoration:none;">Attentive Fashion Grammar Network for Fashion Landmark Detection and Clothing Category Classification</a></li>                              
 </ul>
